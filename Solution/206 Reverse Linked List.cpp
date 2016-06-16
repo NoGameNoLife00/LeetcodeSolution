@@ -32,6 +32,6 @@ public:
     	return pre;
     }
 };
-https://leetcode.com/problems/reverse-linked-list/
-输入一个链表，翻转这个链表，并返回
-解法： 设置3个指针变量分别指向需要交互的两个节点，和他们的后一个节点。 遍历链表开始交换
+// https://leetcode.com/problems/reverse-linked-list/
+// 输入一个链表，翻转这个链表，并返回
+// 解法： 设置3个指针变量分别指向需要交互的两个节点，和他们的后一个节点。 遍历链表开始交换
